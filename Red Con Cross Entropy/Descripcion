@@ -1,0 +1,5 @@
+En esta última modificación, se emplea la función de costo cross entropy
+donde se modifican las funciones de back propagation y la actualización 
+de los mini batch, al probar la eficiencia de la red se obtiene un resultado
+similar a la versión de la red sin modificar, alrededor de un 95% de aciertos
+en las primeras 10 epocas, sin embargo, despúes de eso, no mejora demasiado. 
