@@ -1,0 +1,6 @@
+Al modiciar la red con el optimizador RMSprop, podemos ver que 
+tiene una mejor presición desde las primeras épocas, pero no llega
+al 95% de la red sin modificar, en cambio se queda alrededor del 92-93%
+, la función de activación no fue modificada, la modificación principal
+se realizó en la función de actualización de los mini-batch:
+update_mini_batch, además de cambiar el nombre de la función SGD por RMSprop.
