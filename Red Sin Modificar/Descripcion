@@ -1,0 +1,3 @@
+La red neuronal sin modificar alcanza una presión de aproximadamente 95%,
+aunque se consideraron 30 epocas para el entrenamiento, se nota muy poca 
+mejora desde la epoca 9. 
